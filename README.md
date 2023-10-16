@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jydp07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Jaydeep Katva
+- 👀 I’m interested in Flutter, Java, Dart
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter projects
+- 📫 How to reach me jaydeepkatva0@gmail.com
 
 <!---
 Jydp07/Jydp07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
